@@ -1,11 +1,9 @@
 # Muhammed-Anim
 # Hi, I'm muhammed anim 👋
 
-**Aspiring [Security Analyst / Penetration Tester / SOC Analyst]** focused on [blue team / red team / network security / etc.]
+**Aspiring SOC Analyst focused on blue team
 
-I'm currently learning [e.g., TryHackMe, HTB, Security+, CEH] and building hands-on projects to sharpen my skills.
 
----
 
 ## 🛠️ Skills & Tools
 
@@ -20,9 +18,9 @@ I'm currently learning [e.g., TryHackMe, HTB, Security+, CEH] and building hands
 
 | Project | Description |
 |---------|-------------|
-| [](link-to-repo) | One line on what it does |
-| [Project Name 2](link-to-repo) | One line on what it does |
-| [Project Name 3](link-to-repo) | One line on what it does |
+| [wireshark traffic investigation](https://github.com/muhammedanim-ui/wireshark-network-traffic-investigation)| Wireshark: packet capture and traffic analysis to inspect protocols and spot suspicious activity|
+| burp-suite-web-security-lab(https://github.com/muhammedanim-ui/web-application-security-home-lab/tree/main/report) | sed Burp Suite to intercept and manipulate HTTP requests |
+| [pf sense firewall](https://github.com/muhammedanim-ui/pfSense-Firewall-Homelab) | pfSense: open-source firewall configuration, rule management, and network segmentation|
 
 
 ## 📫 Contact
