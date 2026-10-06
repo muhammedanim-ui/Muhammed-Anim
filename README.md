@@ -26,5 +26,5 @@ I'm building a strong foundation through hands-on projects, from network traffic
 
 ## 📫 Contact
 
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: https://www.linkedin.com/in/muhammed-anim-92229930a/
+- Email: muhammedanim741@gmail.com
