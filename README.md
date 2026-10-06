@@ -1,8 +1,9 @@
 # Muhammed-Anim
-# Hi, I'm muhammed anim 👋
+# Hi, I'm Muhammed Anim 👋
 
-**Aspiring SOC Analyst focused on blue team
+**Cybersecurity student (Bachelor's, 2nd year)** with a passion for learning, analysing, and understanding how security works under the hood.
 
+I'm building a strong foundation through hands-on projects, from network traffic analysis to web app testing and firewall configuration. I enjoy digging into new concepts, breaking things down, and always picking up something new.
 
 
 ## 🛠️ Skills & Tools
@@ -19,7 +20,7 @@
 | Project | Description |
 |---------|-------------|
 | [wireshark traffic investigation](https://github.com/muhammedanim-ui/wireshark-network-traffic-investigation)| Wireshark: packet capture and traffic analysis to inspect protocols and spot suspicious activity|
-| burp-suite-web-security-lab(https://github.com/muhammedanim-ui/web-application-security-home-lab/tree/main/report) | sed Burp Suite to intercept and manipulate HTTP requests |
+| [burp-suite-web-security-lab](https://github.com/muhammedanim-ui/web-application-security-home-lab/tree/main/report) | used Burp Suite to intercept and manipulate HTTP requests |
 | [pf sense firewall](https://github.com/muhammedanim-ui/pfSense-Firewall-Homelab) | pfSense: open-source firewall configuration, rule management, and network segmentation|
 
 
