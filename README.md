@@ -20,7 +20,7 @@ I'm currently learning [e.g., TryHackMe, HTB, Security+, CEH] and building hands
 
 | Project | Description |
 |---------|-------------|
-| [Project Name 1](link-to-repo) | One line on what it does |
+| [](link-to-repo) | One line on what it does |
 | [Project Name 2](link-to-repo) | One line on what it does |
 | [Project Name 3](link-to-repo) | One line on what it does |
 
